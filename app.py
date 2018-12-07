@@ -28,15 +28,6 @@ Cast : { movie_detail['Actors']}\n\nIMDB Rating: {movie_detail['Ratings'][0]['Va
     elif movie_detail['Response'] == 'False':
         response = f"Sorry, I looked for {movie} in my brain but nothing came up..."
 
-
-
-
-
-
-
-
-
-
     reply = {
         'fulfillmentText': response
     }
