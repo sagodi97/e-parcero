@@ -40,7 +40,7 @@ pywin32-ctypes==0.2.0
 PyYAML==3.13
 pyzmq==17.1.2
 requests==2.19.1
-rsa==4.0
+rsa==4.1
 ruamel.yaml==0.15.79
 six==1.11.0
 terminaltables==3.1.0
